@@ -1,0 +1,22 @@
+{
+  "name": "@devtools-ai/playwright-sdk",
+  "version": "1.0.6",
+  "description": "Add visual AI to Playwright for easier selector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DevTools AI",
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@devtools-ai/js-sdk": "^0.1.2",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.2",
+    "open": "^8.4.0",
+    "sharp": "^0.31.0",
+    "uuid": "^9.0.0"
+  }
+}
